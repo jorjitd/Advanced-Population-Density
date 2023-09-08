@@ -5,7 +5,7 @@ This project creates an interactive population density map for US counties using
 
 ## Getting Started
 
-Follow these instructions to set up and run the project on your local machine.
+Follow these instructions to set up and run the project on your local machine. 
 
 ### Prerequisites
 
