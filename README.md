@@ -2,7 +2,6 @@
 
 This project creates an interactive population density map for US counties using open data from the US Census Bureau. It allows you to visualize population density at the county level and provides population information on hover.
 
-![Population Density Map Screenshot](screenshot.png)
 
 ## Getting Started
 
