@@ -20,10 +20,10 @@ Follow these instructions to set up and run the project on your local machine.
    git clone https://github.com/yourusername/population-density-map.git
    cd population-density-map
 
-Install the required Python libraries:
+###  Install the required Python libraries:
 
- '''bash
-      pip install geopandas plotly folium
+    ```bash
+    pip install geopandas plotly folium
 
 
 
